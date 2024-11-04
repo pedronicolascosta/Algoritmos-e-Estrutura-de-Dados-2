@@ -10,3 +10,10 @@ Desenvolvimento e manipulação de matriz<br>
 ## Atividade #02 ✅<br>
 Desenvolvimento modularizado utilizando funções<br>
 ➡️ <a href="https://github.com/pedronicolascosta/Algoritmos-e-Estrutura-de-Dados-2/tree/main/ATIVIDADE%2002">Veja aqui</a><br><br>
+## Atividade #03 ✅<br>
+Desenvolvimento de exercícios utilizando funções<br>
+➡️ <a href="https://github.com/pedronicolascosta/Algoritmos-e-Estrutura-de-Dados-2/tree/main/ATIVIDADE%2003">Veja aqui</a><br><br>
+<hr>
+## Atividades em Aula ✅<br>
+Exercícios e códigos-exemplo desenvolvido ao decorrer das aulas<br>
+➡️ <a href="https://github.com/pedronicolascosta/Algoritmos-e-Estrutura-de-Dados-2/tree/main/Atividades%20em%20aula">Veja aqui</a><br><br>
